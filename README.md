@@ -49,12 +49,6 @@ speaktext.co/
 ## Running the Project with Docker
 
 1. Clone the repository:
-
-```bash
-git clone <your-repo-url>
-cd speaktext.co
-```
-
 2. Build and start the containers:
 
 ```bash
